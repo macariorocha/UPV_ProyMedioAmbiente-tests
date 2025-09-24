@@ -1,2 +1,2 @@
 # UPV_ProyMedioAmbiente-tests
-Pruebas Asignatura Proyectos Biometria y Medio Ambiente (UPV)
+Repositorio para realizar pruebas para la asignatura Proyectos Biometria y Medio Ambiente (UPV)
